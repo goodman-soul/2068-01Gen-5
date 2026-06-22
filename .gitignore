@@ -1,0 +1,6 @@
+# Build artifacts
+/build/
+*.dSYM/
+
+# OS files
+.DS_Store
